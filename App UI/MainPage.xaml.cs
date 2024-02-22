@@ -1,4 +1,6 @@
-﻿namespace GreenShare_App;
+﻿using System;
+
+namespace GreenShare_App;
 
 public partial class MainPage : ContentPage
 {
